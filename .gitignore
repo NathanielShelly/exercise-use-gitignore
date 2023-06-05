@@ -4,7 +4,7 @@ node_modules/
 z*
 
 # User-specific files - Ignore all files ending in ".env"
-*.env
+.env
 
 # Artifacts folder - Ignore this directory at the root due to leading slash
-/artifacts
+/artifacts/
